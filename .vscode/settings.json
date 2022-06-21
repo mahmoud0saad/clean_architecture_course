@@ -1,0 +1,5 @@
+{
+    "pubspec-assist.useLegacyParser": true,
+    "pubspec-assist.useLegacySorting": true,
+    "files.autoSave": "afterDelay"
+}
